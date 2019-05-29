@@ -12,6 +12,9 @@
   ],
   "author": "Jonathan Jackson",
   "license": "ISC",
+  "dependencies": {
+    "ember-cli-babel": "^7.7.3"
+  },
   "devDependencies": {
     "qunit": "^0.7.7"
   }
