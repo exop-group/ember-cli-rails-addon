@@ -13,5 +13,5 @@ This addon is responsible for:
 - writing build errors to a file so that `ember-cli-rails` can display them
   as Rails errors.
 
-[mixin]: app/mixins/csrf-adapter.js
+[mixin]: addon/mixins/csrf-adapter.js
 [ember-cli-rails]: https://github.com/thoughtbot/ember-cli-rails
